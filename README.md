@@ -16,6 +16,10 @@ Dataset ini berisi **13.608** kursus dari platform Udemy dan tersedia di Kaggle:
   Notebook untuk proses segmentasi kursus dengan clustering.
 - `[Klasifikasi]_Submission_Akhir_BMLP_Rizqi Maulidi.ipynb`  
   Notebook untuk membangun model klasifikasi dari hasil clustering.
+- `Dataset_clustering.csv`  
+  Data tidak berlabel untuk clustering.
+- `udemy_output_All_Finance__Accounting_p1_p626.csv`  
+  Data hasil clustering yang sudah memiliki label dan siap digunakan untuk metode klasifikasi.
 
 ---
 
