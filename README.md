@@ -110,12 +110,3 @@ Proyek berhasil mengelompokkan kursus ke dalam segmen bermakna yang dapat dimanf
 - Peningkatan kualitas konten
 
 Model klasifikasi menunjukkan performa tinggi, namun **pengujian lebih lanjut** diperlukan untuk memastikan tidak terjadi overfitting.
-
-"""
-
-# Save the final detailed README content to a markdown file
-final_readme_path = "/mnt/data/README_Course_Segmentation_Final.md"
-with open(final_readme_path, "w", encoding="utf-8") as f:
-    f.write(full_readme_content)
-
-final_readme_path
