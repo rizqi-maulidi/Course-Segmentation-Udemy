@@ -1,5 +1,3 @@
-# Prepare full README content combining clustering and classification with complete explanations
-full_readme_content = """
 # 📚 Course Segmentation Project (Clustering & Classification)
 oleh **Rizqi Maulidi**
 
